@@ -128,7 +128,7 @@ const Contact = () => {
             </div>
             <div>
               <p className="text-gray-400 text-sm">Phone</p>
-              <p className="text-white font-semibold">(+40) 321 654 876</p>
+              <p className="text-white font-semibold">(+91) 81783 08335</p>
             </div>
           </div>
 
@@ -149,7 +149,7 @@ const Contact = () => {
             <div>
               <p className="text-gray-400 text-sm">Address</p>
               <p className="text-white font-semibold">
-                Code Corner, Tech Town 13579
+                IIT Ropar, Rupnagar, Punjab, India
               </p>
             </div>
           </div>
