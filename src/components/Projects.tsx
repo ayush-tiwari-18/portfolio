@@ -12,9 +12,9 @@ const Projects = () => {
       description: "BharatMedicare is an AI-driven healthcare platform that offers skin lesion cancer detection and intelligent analysis of medical documents, helping users access fast and reliable medical insights.",
       tech: "React, Node.js, MongoDB, Express, Python, Tensorflow, Keras, ShadCN, ClerkAuth, tailwindCSS",
       images: [
-        "src/assets/image copy.png",
-        "src/assets/image copy 6.png",
-        "src/assets/image copy 7.png",
+        "/image copy.png",
+        "/image copy 6.png",
+        "/image copy 7.png",
       ],
       github : "https://github.com/ayush-tiwari-18/BharatMedicare",
       arrow : "https://bharatmedicare.onrender.com"
@@ -25,10 +25,10 @@ const Projects = () => {
       description: "A MERN-based chat application with real-time messaging powered by Socket.IO, featuring secure auth, responsive UI, and instant communication.",
       tech: "React, Node.js, MongoDB, Express, SocketIO, Axios, DaisyUI, tailwindCSS",
       images: [
-        "src/assets/image copy 2.png",
-        "src/assets/image copy 5.png",
-        "src/assets/image copy 3.png",
-        "src/assets/image copy 4.png"
+        "/image copy 2.png",
+        "/image copy 5.png",
+        "/image copy 3.png",
+        "/image copy 4.png"
       ],
       github: "https://github.com/ayush-tiwari-18/MeChat",
       arrow : "https://mechat-goca.onrender.com"
@@ -39,8 +39,8 @@ const Projects = () => {
       description: "A CNN model trained to predict the maximum stress on a beam for different volume factions and a specific force on it, We also found out the optimal density distribution for minimum vonMises stress",
       tech: "Python, Tensorflow, Matplotlib, Pandas, Keras, Scikit-Learn", 
       images: [
-        "src/assets/image copy 8.png",
-        "src/assets/image copy 9.png",
+        "/image copy 8.png",
+        "/image copy 9.png",
       ],
       github: "https://github.com/ayush-tiwari-18/StressOptimization"
     }

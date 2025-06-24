@@ -39,7 +39,7 @@ const Hero = () => {
             <div className="absolute inset-0 border-2 border-dashed border-green-400 rounded-full animate-pulse"></div>
             <div className="absolute inset-4 bg-gray-800 rounded-full overflow-hidden">
               <img
-                src="src/assets/image.png"
+                src="/image.png"
                 alt="Ayush Tiwari"
                 className="w-full h-full object-cover"
               />
