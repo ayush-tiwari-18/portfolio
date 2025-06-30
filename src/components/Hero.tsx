@@ -18,7 +18,7 @@ const Hero = () => {
           </div>
           
           <div className="flex items-center space-x-4">
-            <a href="/sde.pdf" download="Ayush_Tiwari_CV.pdf">
+            <a href="/resume.pdf" download="Ayush_Tiwari_CV.pdf">
             <Button className="bg-green-400 hover:bg-green-500 text-black font-semibold">
               <Download className="w-4 h-4 mr-2" />
               Download CV
