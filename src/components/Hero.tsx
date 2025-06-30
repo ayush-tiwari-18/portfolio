@@ -53,8 +53,8 @@ const Hero = () => {
       <div className="w-full max-w-4xl">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
           <div>
-            <div className="text-4xl font-bold text-green-400">2</div>
-            <div className="text-sm text-gray-400">Fresher</div>
+            <div className="text-4xl font-bold text-green-400">Fresher</div>
+            <div className="text-sm text-gray-400">Years of Experience</div>
           </div>
           <div>
             <div className="text-4xl font-bold text-green-400">3</div>
